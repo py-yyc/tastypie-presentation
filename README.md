@@ -1,3 +1,19 @@
+# Base Presentation with Py-YYC theme #
+
+For repositories for Py-YYC meetups, fork this repository and rename them. Create files in the _posts folder of the gh-pages branch to make presentation slides. The github pages for this project (at py-yyc.github.com/name-of-repo) will be the presentation for the meetup.
+
+# Help needed! #
+
+To anyone with CSS-chops, please play around with the styling of this base presentation to define the Py-YYC theme. **Consider this an opportunity to hone your SCSS skills.**
+
+# Credits #
+
+This repository has been forked from the [Hekyll repository](https://github.com/bmcmurray/hekyll). The authors Brian McMurray (bmcmurray) and Steven Merrill (smerrill) deserve credit for this. 
+
+-----------------------------------------------------------------------
+
+** The following is the original README for the Hekyll project **
+
 # Hekyll
 _pronunciation: "heckle"_
 
